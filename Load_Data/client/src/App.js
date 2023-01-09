@@ -29,8 +29,9 @@ const App = () => {
       </div>
       <Container>
         <div>
-          <h2>Welcome, You are here to find out about my accuracy.</h2><br />
-          <h2>Well here are my previous predictions.</h2>
+          <br />
+          <h4>Welcome, You are here to find out about my accuracy.</h4><br />
+          <h4>Well here are my previous predictions.</h4>
         </div>
         <div>
           <Table style={{ textAlign: "center" }} striped bordered hover size="sm">
